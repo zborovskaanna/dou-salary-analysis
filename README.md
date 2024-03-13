@@ -13,7 +13,7 @@ The data file is placed on Google Drive at this link [DOU salaries data](https:/
 
 ### Tech stack  
 
-Python
-Pandas
+Python  
+Pandas  
 Numpy
 
