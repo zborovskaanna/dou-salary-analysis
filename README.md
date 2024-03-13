@@ -9,5 +9,11 @@ Contains both independent work and tasks from the course.
 
 ### Data  
 
-[DOU salaries data](https://drive.google.com/file/d/1C56LYNh1uQjqpAYkPXPlvAOTS2XZV_Ss/view?usp=sharing)  
+The data file is placed on Google Drive at this link [DOU salaries data](https://drive.google.com/file/d/1C56LYNh1uQjqpAYkPXPlvAOTS2XZV_Ss/view?usp=sharing)  
+
+### Tech stack  
+
+Python
+Pandas
+Numpy
 
